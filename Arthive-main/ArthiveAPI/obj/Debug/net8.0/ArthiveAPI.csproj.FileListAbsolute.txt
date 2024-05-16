@@ -1,0 +1,327 @@
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\appsettings.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.exe
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.deps.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.runtimeconfig.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.pdb
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.AssemblyReference.cache
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfoInputs.cache
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfo.cs
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CoreCompileInputs.cache
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.ArthiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ArthiveAPI.props
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArthiveAPI.props
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArthiveAPI.props
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\scopedcss\bundle\ArthiveAPI.styles.css
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CopyComplete
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.dll
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\refint\ArthiveAPI.dll
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.pdb
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.genruntimeconfig.cache
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ref\ArthiveAPI.dll
+D:\.prog\Arthive\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.sourcelink.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\appsettings.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.exe
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.deps.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.runtimeconfig.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.pdb
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.AssemblyReference.cache
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfoInputs.cache
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfo.cs
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CoreCompileInputs.cache
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.ArthiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ArthiveAPI.props
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArthiveAPI.props
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArthiveAPI.props
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\scopedcss\bundle\ArthiveAPI.styles.css
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CopyComplete
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\refint\ArthiveAPI.dll
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.pdb
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.genruntimeconfig.cache
+D:\.prog\Arthive-mainTEST\ArthiveAPI\obj\Debug\net8.0\ref\ArthiveAPI.dll
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\publish\web.config
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.deps.json
+D:\.prog\Arthive\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.runtimeconfig.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\web.config
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.deps.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.runtimeconfig.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.staticwebassets.runtime.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.exe
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.deps.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.runtimeconfig.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.pdb
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.AssemblyReference.cache
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfoInputs.cache
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfo.cs
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CoreCompileInputs.cache
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.ArthiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ArthiveAPI.props
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArthiveAPI.props
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArthiveAPI.props
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\scopedcss\bundle\ArthiveAPI.styles.css
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CopyComplete
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\refint\ArthiveAPI.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.pdb
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.genruntimeconfig.cache
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ref\ArthiveAPI.dll
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\package-lock.json
+C:\Users\Daria\Downloads\Arthive-main\ArthiveAPI\bin\Debug\net8.0\package.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\web.config
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\package-lock.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\package.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.deps.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\publish\ArthiveAPI.runtimeconfig.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.staticwebassets.runtime.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.exe
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.deps.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.runtimeconfig.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\ArthiveAPI.pdb
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.AssemblyReference.cache
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.AssemblyInfo.cs
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.sourcelink.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.ArthiveAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ArthiveAPI.props
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ArthiveAPI.props
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ArthiveAPI.props
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\scopedcss\bundle\ArthiveAPI.styles.css
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.csproj.CopyComplete
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\refint\ArthiveAPI.dll
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.pdb
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ArthiveAPI.genruntimeconfig.cache
+C:\Users\Daria\OneDrive\Рабочий стол\Library\Arthive-main\ArthiveAPI\obj\Debug\net8.0\ref\ArthiveAPI.dll

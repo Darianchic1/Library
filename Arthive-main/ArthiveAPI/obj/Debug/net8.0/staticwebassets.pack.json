@@ -1,0 +1,285 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article.html",
+      "PackagePath": "staticwebassets\\article.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\article.css",
+      "PackagePath": "staticwebassets\\article\\article.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\back.svg",
+      "PackagePath": "staticwebassets\\article\\static\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\design.svg",
+      "PackagePath": "staticwebassets\\article\\static\\design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\ds.svg",
+      "PackagePath": "staticwebassets\\article\\static\\ds.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\for_article.svg",
+      "PackagePath": "staticwebassets\\article\\static\\for_article.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\front.svg",
+      "PackagePath": "staticwebassets\\article\\static\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\goout.svg",
+      "PackagePath": "staticwebassets\\article\\static\\goout.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\icon.svg",
+      "PackagePath": "staticwebassets\\article\\static\\icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\programming.svg",
+      "PackagePath": "staticwebassets\\article\\static\\programming.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\str.svg",
+      "PackagePath": "staticwebassets\\article\\static\\str.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\tg.svg",
+      "PackagePath": "staticwebassets\\article\\static\\tg.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\ut.svg",
+      "PackagePath": "staticwebassets\\article\\static\\ut.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\vk.svg",
+      "PackagePath": "staticwebassets\\article\\static\\vk.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\article\\static\\write.svg",
+      "PackagePath": "staticwebassets\\article\\static\\write.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\login\\login.css",
+      "PackagePath": "staticwebassets\\login\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\main.css",
+      "PackagePath": "staticwebassets\\main\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\back.svg",
+      "PackagePath": "staticwebassets\\main\\static\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\design.svg",
+      "PackagePath": "staticwebassets\\main\\static\\design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\dis.png",
+      "PackagePath": "staticwebassets\\main\\static\\dis.png"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\easy.svg",
+      "PackagePath": "staticwebassets\\main\\static\\easy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\front.svg",
+      "PackagePath": "staticwebassets\\main\\static\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main\\static\\programming.svg",
+      "PackagePath": "staticwebassets\\main\\static\\programming.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_pr.html",
+      "PackagePath": "staticwebassets\\main_in_pr.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\main_in_pr.css",
+      "PackagePath": "staticwebassets\\main_in_profile\\main_in_pr.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\back.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\design.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\dis.png",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\dis.png"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\easy.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\easy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\front.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\icon.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\new_story.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\new_story.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\main_in_profile\\static\\programming.svg",
+      "PackagePath": "staticwebassets\\main_in_profile\\static\\programming.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art.html",
+      "PackagePath": "staticwebassets\\many_art.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\many_art.css",
+      "PackagePath": "staticwebassets\\many_art\\many_art.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\back.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\bookmarks.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\bookmarks.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\design.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\dis.png",
+      "PackagePath": "staticwebassets\\many_art\\static\\dis.png"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\easy.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\easy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\front.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\many_art\\static\\programming.svg",
+      "PackagePath": "staticwebassets\\many_art\\static\\programming.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\package-lock.json",
+      "PackagePath": "staticwebassets\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\package.json",
+      "PackagePath": "staticwebassets\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile.html",
+      "PackagePath": "staticwebassets\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\profile.css",
+      "PackagePath": "staticwebassets\\profile\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\back.svg",
+      "PackagePath": "staticwebassets\\profile\\static\\back.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\design.svg",
+      "PackagePath": "staticwebassets\\profile\\static\\design.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\dis.png",
+      "PackagePath": "staticwebassets\\profile\\static\\dis.png"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\easy.svg",
+      "PackagePath": "staticwebassets\\profile\\static\\easy.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\front.svg",
+      "PackagePath": "staticwebassets\\profile\\static\\front.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\profile\\static\\programming.svg",
+      "PackagePath": "staticwebassets\\profile\\static\\programming.svg"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\article.js",
+      "PackagePath": "staticwebassets\\script\\article.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\inPr.js",
+      "PackagePath": "staticwebassets\\script\\inPr.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\login.js",
+      "PackagePath": "staticwebassets\\script\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\main.js",
+      "PackagePath": "staticwebassets\\script\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\many.js",
+      "PackagePath": "staticwebassets\\script\\many.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\profile.js",
+      "PackagePath": "staticwebassets\\script\\profile.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\video.js",
+      "PackagePath": "staticwebassets\\script\\video.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\script\\write.js",
+      "PackagePath": "staticwebassets\\script\\write.js"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\video.html",
+      "PackagePath": "staticwebassets\\video.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\video\\style.css",
+      "PackagePath": "staticwebassets\\video\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\write.html",
+      "PackagePath": "staticwebassets\\write.html"
+    },
+    {
+      "Id": "C:\\Users\\Daria\\OneDrive\\Рабочий стол\\Library\\Arthive-main\\ArthiveAPI\\wwwroot\\write\\write.css",
+      "PackagePath": "staticwebassets\\write\\write.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ArthiveAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ArthiveAPI.props",
+      "PackagePath": "build\\ArthiveAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ArthiveAPI.props",
+      "PackagePath": "buildMultiTargeting\\ArthiveAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ArthiveAPI.props",
+      "PackagePath": "buildTransitive\\ArthiveAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

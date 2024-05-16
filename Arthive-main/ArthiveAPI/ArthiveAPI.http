@@ -1,0 +1,6 @@
+@ArthiveAPI_HostAddress = http://localhost:5182
+
+GET {{ArthiveAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

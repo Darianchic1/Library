@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Slide Navbar</title>
+	<link rel="stylesheet" type="text/css" href="login/login.css">
+    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500&display=swap" rel="stylesheet">
+</head>
+<div class="navbar">
+	<p class="logo">ARTHIVE</p>
+</div>
+<body>
+	<div class="main">  	
+		<div class="gap"></div>
+		<input type="checkbox" id="chk" aria-hidden="true">
+			<div class="signup">
+				<form>
+					<label for="chk" aria-hidden="true">Registration</label>
+					<input id="input_name" type="nik" name="nik" placeholder="Name" required="">
+					<input id="input_email" type="email" name="email" placeholder="Email" required="">
+					<input id="input_pass" type="password" name="pswd" placeholder="Password" required="">
+					<button id="register">Registre</button>
+				</form>
+			</div>
+
+			<div class="login">
+				<form>
+					<label for="chk" aria-hidden="true">Enter</label>
+					<input id="input_email_enter" type="email" name="email" placeholder="Email" required="">
+					<input id="input_pass_enter" type="password" name="pswd" placeholder="Password" required="">
+					<button id="enter">Enter</button>
+				</form>
+			</div>
+	</div>
+</body>
+<script type="module" src="script/login.js"></script>
+</html>

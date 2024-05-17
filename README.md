@@ -14,6 +14,7 @@ Frontend:
 - html/css + js
 - библиотека axios
 - данные хранятся в LocalStorage
+  
 Backend:
 - C# + ASP.NET
 - EFCore, IdentityCore
